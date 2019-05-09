@@ -16,6 +16,15 @@
   <atom:link href="http://latexdraw.sourceforge.net/LaTeXDraw-news.rss" rel="self" type="application/rss+xml" />
 
   <item>
+    <title>LaTeXDraw 3.3.9 -- Bugs fixed</title>
+    <author>arno_b@users.sourceforge.net (arno_b)</author>
+    <pubDate>Thu, 09 may 2019 02:00:00 GMT</pubDate>
+    <guid>http://latexdraw.sourceforge.net/index.html#NEWS59</guid>
+	 <link>http://latexdraw.sourceforge.net/index.html#NEWS59</link>
+    <description>This bugfix release fixes an annoying bug on MacOS with scroll bars.</description>
+  </item>
+
+  <item>
     <title>LaTeXDraw 3.3.8 -- Bugs fixed</title>
     <author>arno_b@users.sourceforge.net (arno_b)</author>
     <pubDate>Sun, 03 dec 2017 02:00:00 GMT</pubDate>
