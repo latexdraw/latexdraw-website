@@ -16,6 +16,15 @@
   <atom:link href="http://latexdraw.sourceforge.net/LaTeXDraw-news.rss" rel="self" type="application/rss+xml" />
 
   <item>
+    <title>LaTeXDraw 4.0.1</title>
+    <author>arno_b@users.sourceforge.net (arno_b)</author>
+    <pubDate>Thu, 13 april 2020 02:00:00 GMT</pubDate>
+    <guid>http://latexdraw.sourceforge.net/index.html#NEWS61</guid>
+	 <link>http://latexdraw.sourceforge.net/index.html#NEWS61</link>
+    <description>This bugfix release fixes multiple serious issues, in particular for Windows users.</description>
+  </item>
+
+  <item>
     <title>LaTeXDraw 4.0.0</title>
     <author>arno_b@users.sourceforge.net (arno_b)</author>
     <pubDate>Thu, 04 april 2020 02:00:00 GMT</pubDate>
