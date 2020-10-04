@@ -16,6 +16,15 @@
   <atom:link href="http://latexdraw.sourceforge.net/LaTeXDraw-news.rss" rel="self" type="application/rss+xml" />
 
   <item>
+    <title>LaTeXDraw 4.0.2</title>
+    <author>arno_b@users.sourceforge.net (arno_b)</author>
+    <pubDate>Sun, 01 oct 2020 02:00:00 GMT</pubDate>
+    <guid>http://latexdraw.sourceforge.net/index.html#NEWS62</guid>
+	 <link>http://latexdraw.sourceforge.net/index.html#NEWS62</link>
+    <description>Another bugfix release.</description>
+  </item>
+
+  <item>
     <title>LaTeXDraw 4.0.1</title>
     <author>arno_b@users.sourceforge.net (arno_b)</author>
     <pubDate>Thu, 13 april 2020 02:00:00 GMT</pubDate>
